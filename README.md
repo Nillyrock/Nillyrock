@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Nillyrock
-- 👀 I’m interested in ...
+- 👀 I’m interested in ...all things sci-fi
 - 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...telepathy only for now
 - 😄 Pronouns: ...she/her
 - ⚡ Fun fact: ...I wish Firefly was still on the air!
 
